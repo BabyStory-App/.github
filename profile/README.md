@@ -1,6 +1,7 @@
 # BabyStory: 육아 보조 커뮤니티 앱
 
 > 팀 옹알옹알의 강남대학교 ICT공학부 소프트웨어 졸업 프로젝트
+> > 우수한 AI 활용성을 인정 받아 [우수상](https://sae.kangnam.ac.kr/menu/board/info/e6f593230b8536086e58240a44980c66.do?scrtWrtiYn=false&encMenuSeq=1e1472dd7e9e071314c4ce51e2a80ce1&encMenuBoardSeq=84b7036f898dd910561796716eb8eade)(2등)을 수상함.
 >
 > - 소프트웨어학과 201904008 곽재원
 > - 소프트웨어학과 202184063 홍승조
